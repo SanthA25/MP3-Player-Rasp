@@ -1,4 +1,4 @@
-# MP3-Player-Rasp
+# MP3 Player para Raspberry Pi
 Reproductor MP3, hecho en python con interfaz gráfica.
 
 <p align="center">
