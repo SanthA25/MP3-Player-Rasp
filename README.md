@@ -5,6 +5,7 @@ Reproductor MP3, hecho en python con interfaz gráfica.
 ## Como Funciona?
 Todos los archivos que se encuentran en la carperta Files deben deben permanecer en la misma carpeta.*
 Para poder crear la aplicación en el Desktop de la Raspberry Pi, se deben descargar los dos archivos de la carpeta App_Desk y ubicarlos dentro del escritorio de la Raspberry.*
+El archivo que ejecuta el reproductor junto con la interfaz grafica es ** reproductor.py **
 La aplicacón que se encargará de ejecutar el reproductor MP3 es la que tiene terminación .desktop*
 
 
