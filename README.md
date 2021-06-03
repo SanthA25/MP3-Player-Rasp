@@ -8,8 +8,7 @@ Para poder crear la aplicación en el Desktop de la Raspberry Pi, se deben desca
 El archivo que ejecuta el reproductor junto con la interfaz grafica es **reproductor.py**.
 La aplicacón que se encargará de ejecutar el reproductor MP3 es la que tiene terminación .desktop
 
-### _VIDEO DEMOSTRATTIVO_
-https://www.youtube.com/watch?v=Jj3pQhooxzs - [MP3](https://www.youtube.com/watch?v=Jj3pQhooxzs)
+### _VIDEO DEMOSTRATTIVO_ [MP3](https://www.youtube.com/watch?v=Jj3pQhooxzs)
 
 
 <p align="center">
